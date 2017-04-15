@@ -24,8 +24,7 @@ body {
 }
 
 .title-bar {
-	background-color: white;
-	
+	background-color: #00b7f3;
 }
 
 .top-bar .toggle-topbar.menu-icon a::after {
